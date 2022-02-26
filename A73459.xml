@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The state of a Christian lively set forth by an allegorie of shippe under sayle.</title>
+            <author>Younge, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1636</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73459</idno>
+            <idno type="STC">STC 26112.7</idno>
+            <idno type="STC">Thomason 669.f.10[70]</idno>
+            <idno type="STC">ESTC R210549</idno>
+            <idno type="EEBO-CITATION">99869336</idno>
+            <idno type="PROQUEST">99869336</idno>
+            <idno type="VID">162606</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73459)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162606)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f10[70])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The state of a Christian lively set forth by an allegorie of shippe under sayle.</title>
+                  <author>Younge, Richard.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Cotes for the Author; and are to be sold by Sarah Fairbeard, at the North doore of the Royal Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1636.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: R.Y [i.e. Richard Younge].</note>
+                  <note>Annotation on Thomason copy: the imprint date has been altered to read "1646".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+               <term>Metaphor --  Religious aspects --  Christianity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:162606:1" rendition="simple:additions"/>
+            <head>THE STATE OF A CHRISTIAN, lively ſet forth by an Allegorie of a Shippe under Sayle.<note place="margin">Prov. 31.14. Iob 9.26. Iſay 23.1. Rev. 8.9.</note>
+            </head>
+            <p>
+               <seg rend="decorInit">M</seg>Y Body is the <hi>Hull;</hi> the <hi>Keele</hi> my backe; my Necke the <hi>Stem;</hi> the <hi>Sides</hi> are my Ribbes; the <hi>beames</hi> my bones; my fleſh the <hi>plankes;</hi> Griſtles and ligaments are the <hi>Pintells</hi> and <hi>knee-timbers;</hi> Arteries, veines and ſinewes the ſeverall <hi>ſeames</hi> of the ſhippe; my blood is the <hi>ballaſt;</hi> my heart the <hi>principall hold;</hi> my ſtomack the <hi>Cooke-roome;</hi> my Liver the <hi>Ceſterne;</hi> my Bowells the <hi>ſinke;</hi> my Lungs the <hi>Bellowes;</hi> my teeth the <hi>Chopping-knives,</hi> except you divide them, and then they are the 32. <hi>points of the Sea-card</hi> both agreeing in number; Concoction is the <hi>Caldron;</hi> and hunger the <hi>Salt</hi> or <hi>ſawce;</hi> my belly is the <hi>lower Decke;</hi> my kidnies <hi>Cloſe Cabbins</hi> or receptacles; my thighes are <hi>long Galleries</hi> for the grace of the ſhip; my armes and hands the <hi>Canhookes,</hi> my midriffe is a large Parti<g ref="char:EOLhyphen"/>tion or <hi>Bulk-head;</hi> within the circumference of my head is placed the <hi>Stee<g ref="char:EOLhyphen"/>ridge roome</hi> and <hi>chiefe Cabbins,</hi> with the <hi>Round houſe</hi> where the <hi>Maſter</hi> lyeth, and theſe for the more ſafety and decency are incloſed with a dou<g ref="char:EOLhyphen"/>ble fence, the one <hi>Dura mater</hi> ſomething hard and thicke, the other <hi>Pia mater</hi> very thinne and ſoft, which ſerveth in ſtead of hangings; The eares are two doores or <hi>Scuttles,</hi> fitly placed for entertain<g ref="char:EOLhyphen"/>ment; the two Eyes are <hi>Caſements</hi> to let in light; under them is my mouth the <hi>Stowidge</hi> or <hi>Stewards roome;</hi> my lippes are <hi>Hatches</hi> for receit of goods; my two Noſtrills ſerve as <hi>Gratings</hi> to let in ayre; at the one end ſtands my chin which is the <hi>Beakehead;</hi> my forehead is the <hi>upper decke;</hi> all which be<g ref="char:EOLhyphen"/>ing <hi>trimmed</hi> with my fat in ſtead of <hi>pitch,</hi> and haire in ſtead of <hi>Ockham,</hi> are <hi>coloured</hi> with my skinne.</p>
+            <p>The <hi>fore-decke</hi> is humility; the <hi>ſtearne</hi> Charity; active obedience the <hi>ſailes;</hi> which being <hi>hoyſed</hi> up with the ſeverall <hi>Yards, Halliers</hi> and <hi>Bow<g ref="char:EOLhyphen"/>lings</hi> of holy precepts and good purpoſes, are let downe againe by fickle<g ref="char:EOLhyphen"/>neſſe, faintings, and inconſtancy; Reaſon is my <hi>Rudder;</hi> experience the <hi>helme;</hi> hope of ſalvation my <hi>Anchor;</hi> paſſive obedience the <hi>Capſtaine;</hi> holy Re<g ref="char:EOLhyphen"/>venge the <hi>Cat</hi> and <hi>Fiſh</hi> to <hi>hawle</hi> the <hi>ſheate Anchor</hi> or <hi>laſt hope;</hi> feare of of<g ref="char:EOLhyphen"/>fending is the <hi>Buoy;</hi> vertues are the <hi>Cables;</hi> Holy deſires and ſodaine eja<g ref="char:EOLhyphen"/>culations the <hi>ſhroudes;</hi> the zeale of Gods glory is my <hi>Maine-maſt,</hi> preme<g ref="char:EOLhyphen"/>ditation the <hi>foremaſt;</hi> deſire of my owne ſalvation the <hi>Mizzen-maſt;</hi> ſaving knowledge the <hi>Bolteſprit;</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ircumſpection a <hi>ſounding line;</hi> my <hi>Light</hi> is illu<g ref="char:EOLhyphen"/>mination, Iuſtice is the <hi>Card,</hi> Gods word the <hi>Compaſſe;</hi> the meditation of lifes brevity a <hi>Foure-houre glaſſe;</hi> Contemplation of the Creatures the <hi>Croſſe-ſtaffe</hi> or <hi>Iacobs ſtaffe;</hi> the Creede a <hi>Sea grammer;</hi> the life of Chriſt my <hi>Load ſtarre;</hi> the Saints falls are <hi>Sea-markes;</hi> Good examples <hi>Land-markes;</hi> Repen<g ref="char:EOLhyphen"/>tance <hi>Pumps</hi> out the ſinke of my ſinnes; a good Conſcience keepes mee <hi>cleane;</hi> imputative righteouſneſſe is my <hi>Flag,</hi> having this <hi>Motto</hi> (BEING CAST DOVVNE WE PERISH NOT) The <hi>Flage-ſtaffe</hi> is ſincerity; the ſhip is <hi>victualed afreſh</hi> by reading, hearing, receiving; Bookes are <hi>Long-boates;</hi> Letters are little <hi>Sciffes</hi> to carry and recarry my ſpirituall <hi>merchandize;</hi> Per<g ref="char:EOLhyphen"/>ſeverance is my <hi>ſpeede,</hi> and patience my <hi>name,</hi> my <hi>fire</hi> is luſt, which will not be cleane extinguiſhed; full feeding and ſtrong drinke is the <hi>fuell</hi> to main<g ref="char:EOLhyphen"/>taine it, whoſe <hi>flame</hi> (if it be not ſuppreſt) is jealouſie; whoſe <hi>ſparkes</hi> are evill words; whoſe <hi>aſhes</hi> is envie; whoſe <hi>ſmoake</hi> is infamie; Laſcivious talke is as <hi>flint</hi> and <hi>ſteele;</hi> Concupiſcence as <hi>tinder,</hi> opportunity is the <hi>match</hi> to light it; Sloath and idleneſſe are the <hi>Servants</hi> to prepare it.</p>
+            <p>The Law of God is my <hi>Pilot;</hi> Faith my <hi>Captaine;</hi> Fortitude the <hi>Maſter;</hi> Chaſtity the <hi>Maſters mate;</hi> my will the <hi>Coxen;</hi> Conſcience the <hi>Preacher;</hi> Application of Chriſts death the <hi>Chirurgion; Mortification</hi> the <hi>Cooke;</hi> Vivi<g ref="char:EOLhyphen"/>fication the <hi>Calker;</hi> Selfedeniall is an <hi>Apprentice</hi> of his; Temperance the <hi>Ste<g ref="char:EOLhyphen"/>ward;</hi> Contentation his <hi>Mate;</hi> truth the <hi>Purſer;</hi> thankefulneſſe the <hi>Purſers mate;</hi> Reformation the <hi>Boatſwain;</hi> The 4 humors, Sanguin, Choler, &amp;c. are the <hi>Quarter maſters;</hi> Chriſtian vigilancy undertakes to ſupply the office of <hi>Starbord</hi> and <hi>Larborde</hi> watch; Memory is <hi>Clerke of the Checke;</hi> Aſſu<g ref="char:EOLhyphen"/>rance the <hi>Corporall;</hi> the <hi>Armour</hi> Innocency; the <hi>Mariners</hi> Angels; Schiſ<g ref="char:EOLhyphen"/>matickes are <hi>ſearchers</hi> ſent aboard; my underſtanding as <hi>Maſter Gunner</hi> culls out from thoſe two <hi>Budgecaskes</hi> of the New and old Teſtament cer<g ref="char:EOLhyphen"/>raine threates and promiſes which is my onely <hi>powder</hi> and <hi>Shot;</hi> and with the aſſiſtance of the <hi>Gunners mate,</hi> holy anger againſt ſinne, <hi>chargeth</hi> my tongue, which like to a <hi>peece of Ordnance</hi> ſhootes them to the ſhame and o<g ref="char:EOLhyphen"/>verthrow of my ſpirituall <hi>Adverſaries.</hi>
+            </p>
+            <p>My <hi>Noble Paſſengers</hi> are Ioy in the holy Ghoſt &amp; the peace of Conſcience, whoſe <hi>retinue</hi> are divine graces; my <hi>ignoble</hi> or rather <hi>mutinous paſſengers</hi> are wordly cogitations and vaine delights, which are more than a good many; beſides ſome that are <hi>arrant theeves</hi> and <hi>traytors,</hi> namely pride, envie, pre<g ref="char:EOLhyphen"/>judice<g ref="char:punc">▪</g> but all theſe ile bid farewell when I come to my journeis end, though I would but cannot before.</p>
+            <p>Heaven is my <hi>Country,</hi> where I am <hi>regiſtred</hi> in the Booke of life; my <hi>King</hi> is <hi>Iehovah;</hi> my <hi>tribute</hi> Almeſdeeds; <hi>they which gather it</hi> are the poore; Love is my Countries <hi>badge,</hi> my <hi>language</hi> is holy conference; my <hi>fellow companions</hi> are the Saints.</p>
+            <p>I am poore in performances, yet rich in Gods acceptation; The founda<g ref="char:EOLhyphen"/>tion of all my good, is Gods free Election; I became bound into the Corpo<g ref="char:EOLhyphen"/>ration of the Church to ſerve him in my baptiſme; I was inrolled at the time when he firſt called me: my freedome is Iuſtification, it was purcha<g ref="char:EOLhyphen"/>ſed with the blood of Chriſt, my evidence is the earneſt of his ſpirit; my priviledges are his ſanctifying Graces; my Crowne (reſerved for me on high) is Glorification.</p>
+            <p>My <hi>Maker</hi> and <hi>Owner</hi> is God, who <hi>built</hi> me by his Word which is Chriſt, of earth which was the <hi>materiall:</hi> he <hi>fraught</hi> it with the eſſence of my ſoule which is the <hi>Treaſure;</hi> and hath ſet me to <hi>ſaile</hi> in the <hi>ſea</hi> of this world, till I attaine to the <hi>port</hi> of death, which letteth the terreſtriall part into the <hi>harbour</hi> of the grave, and the celeſtiall into the kingdome of hea<g ref="char:EOLhyphen"/>ven; in which <hi>voyage</hi> conveniencie of eſtate is as <hi>ſea-roome;</hi> good affections ſerve as a tyde, and prayer as a <hi>a proſperous gale a winde</hi> to helpe for<g ref="char:EOLhyphen"/>ward.</p>
+            <p>But innumerable are the <hi>Impediments</hi> and <hi>perills;</hi> for here I meete with the proffers of unlawfull gaine, and ſenſuall delights as ſo many <hi>Sirens;</hi> the baites of proſperity (as <hi>high bankes</hi>) on the right hand or <hi>weatherſhore,</hi> and there with evill ſuggeſtions, and crabbed adverſity (as <hi>Rockes</hi>) on the left hand or <hi>Lee-ſhore</hi> ready to <hi>ſplit</hi> me; the feare of hell like <hi>quickeſands</hi> threaten to ſwallow me; Originall ſinne like weedes clog me, and actu<g ref="char:EOLhyphen"/>all tranſgreſſions like ſo many <hi>Barnacles</hi> hang about me, yea every ſinne I commit <hi>ſprings</hi> a new <hi>leake;</hi> my ſenſes are as ſo many <hi>ſtormes</hi> of <hi>raine, haile</hi> and <hi>ſnow</hi> to ſinke me; lewd affections are <hi>roaring billowes</hi> and <hi>waves;</hi> ſelfe-confidence or to rely upon any thing but divine aſſiſtance, is to <hi>loſe the bolt-ſprit;</hi> Reſtitution is heaving goods <hi>over board</hi> to ſave the ſhip; Melancholy, is want of <hi>freſhwater;</hi> the ſcoffes of Atheiſts and contempt of religion in all places, is a notable <hi>becalming;</hi> the lewd lives and evill examples of the moſt a <hi>contagious ayre;</hi> Idleneſſe <hi>furres it,</hi> and is a ſhrewd <hi>decay</hi> both of <hi>Hull</hi> and <hi>Tackling.</hi> 
+               <q>Moreover ſayling along and keeping watch (for they that are Chriſts friends you know muſt looke for all they meete to be their <hi>enemies</hi>) we no ſooner looke up but preſently we ken <hi>a man of warre,</hi> and then we muſt be for warre too, and provide for a <hi>skir<g ref="char:EOLhyphen"/>miſh.</hi>
+               </q>
+            </p>
+            <p>
+               <q>Now the <hi>Gallyon</hi> that hath our <hi>Pinnace in chaſe,</hi> and alwayes watcheth for advantages to ſurpriſe it, is the <hi>Piracy</hi> of hell, the ſynagogue of Sa<g ref="char:EOLhyphen"/>than; her <hi>fraight</hi> is Temptations and perſecutions, with all the <hi>Engines of miſchiefe;</hi> in which the Devill is <hi>Maſter;</hi> m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lice the <hi>Maſters mate;</hi> cruelty the <hi>Captaine;</hi> Murder the <hi>Cooke;</hi> Flattery the <hi>Calker;</hi> profaneneſſe a <hi>quarter maſter;</hi> riot the <hi>Steward;</hi> never content his <hi>mate;</hi> pride the <hi>Cockeſon;</hi> ſuperſtition the <hi>Preacher;</hi> hypocriſie the <hi>Boatſwain;</hi> covetouſnes the <hi>Purſer;</hi> luſt the <hi>Swabber;</hi> fury the <hi>Gunner;</hi> preſumption the <hi>Corporall;</hi> ſedition the <hi>Trumpeter;</hi> drunkenneſſe the <hi>Drummer;</hi> vices are the <hi>ſayles;</hi> cuſtome the <hi>Maine-maſt;</hi> Example of the multitude the <hi>Foremaſt;</hi> Luſts and paſſions the <hi>Cables;</hi> blindneſſe of mind the <hi>Rudder;</hi> hardneſſe of heart the <hi>helme;</hi> the wiſedome of the fleſh the <hi>Card;</hi> the myſtery of iniquity the <hi>Compaſſe;</hi> the five ſenſes, or if you will ſcoffing Atheiſts, prophane fowle-mouthed drunkards, and all the rab<g ref="char:EOLhyphen"/>ble of hell are the <hi>Marriners;</hi> lewd affections the <hi>Paſſengers;</hi> little con<g ref="char:EOLhyphen"/>ſcience the <hi>Load-ſtarre,</hi>
+               </q> ſhe hath <hi>two Tyre of great Ordnance planted in her,</hi> hereſie and irreligion (being either for a falſe God or none) Oathes blaſphemy and curſes are the <hi>powder</hi> and <hi>ſhot,</hi> which they ſpit againſt all that worſhip the Lambe, or fight under the enſigne of faith; her <hi>armour</hi> is carnall ſecurity; the <hi>Flag in her top,</hi> is infidelity, the <hi>motto (There is no God but Gaine)</hi> Her <hi>ballaſt</hi> which keepes her upright, is ignorance; moſt of her <hi>tackling</hi> ſhe has from <hi>Rome,</hi> and <hi>Amſterdam;</hi> Antichriſt as <hi>Pilot, ſteares</hi> her in ſuch a <hi>courſe</hi> that ſhe goes on ſwiftly, proudly, ſecurely, ſcorning and ſcoffing (<hi>Sennacharib</hi> like) to heare that any Lord ſhould deliver this poore pinnace out of her hands; yet in the ſequell this ſilly <hi>Pinke</hi> having the <hi>inſurance</hi> of Gods omnipreſence, findes not only <hi>ſuccour</hi> from the Stock of the Churches prayers, which like another <hi>Merchant man</hi> comes in to the <hi>reſcue,</hi> but likewiſe that Gods Almighty power and providence is neare at hand as a ſtrong <hi>Caſtle</hi> of defence to free her, whereby ſhe <hi>eſcapes</hi> even as a bird out of the ſnare of the hunter, to prayſe the Lord, who hath not given her as a pray unto their teeth, that would have ſwallowed up all quicke, but delivered her from ſuch ſwelling waters, flouds of affliction, and ſtreames of perſecution, as elſe had gone over her, and even drowned her ſoule, as it is <hi>Pſalme</hi> 124, while this great <hi>Gallion</hi> (though, it ſeeme like that <hi>Invincible Armado) flyes,</hi> and <hi>(having no Anchor)</hi> when the <hi>ſtormes</hi> of Gods wrath <hi>ariſe, downe ſhe ſinkes</hi> to deſperation, and periſheth in the bottomleſſe pit or burning lake of fire and brimſtone, where weele leave her to receive a juſt recompence of reward.</p>
+            <closer>
+               <signed>R. Y.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London Printed by <hi>Tho. Cotes</hi> for the Author; and are to be ſold by <hi>Sarah Fairbeard,</hi> at the North doore of the Royall Exchange. 1646.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
